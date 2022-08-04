@@ -1,0 +1,19 @@
+.card{
+  box-shadow: 0 0 5px rgb(230,230,230);
+  max-width: 30%;
+  text-align: center;
+  padding: 24px;
+
+}
+
+.card img {
+  height: 100px;
+}
+
+.card p {
+  opacity: 0.5;
+}
+
+.container .cards {
+  padding-bottom: 32px;
+}
